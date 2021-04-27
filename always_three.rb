@@ -9,6 +9,6 @@ final_num *= 2
 final_num -= 4
 final_num /= 2
 
-solution = final_num - first_num
+final_num -= first_num
 
-puts "The final number is always #{solution}"
+puts "The final number is always #{final_num}"

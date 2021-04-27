@@ -16,7 +16,6 @@ if number > 9
   number = number[0].to_i + number[1].to_i
 end  
 
-
 case number
 when 1
   puts "Your numerology number is #{number}.\nOne is the leader. The number one indicates the ability to stand alone, and is a strong vibration. Ruled by the Sun."
